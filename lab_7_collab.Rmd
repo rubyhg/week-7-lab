@@ -16,3 +16,5 @@ Hey Ruby!
 Sweet that worked!
 
 ok, good.  everything's working.
+
+test to see if my git config worked
